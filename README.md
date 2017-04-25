@@ -1,4 +1,7 @@
-# api documentation for  [monaco-editor (v0.8.3)](https://github.com/Microsoft/monaco-editor#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-monaco-editor.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-monaco-editor) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-monaco-editor.svg)](https://travis-ci.org/npmdoc/node-npmdoc-monaco-editor)
+# npmdoc-monaco-editor
+
+#### basic api documentation for  [monaco-editor (v0.8.3)](https://github.com/Microsoft/monaco-editor#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-monaco-editor.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-monaco-editor) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-monaco-editor.svg)](https://travis-ci.org/npmdoc/node-npmdoc-monaco-editor)
+
 #### A browser based code editor
 
 [![NPM](https://nodei.co/npm/monaco-editor.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/monaco-editor)
@@ -76,7 +79,8 @@
         "website": "gulp website"
     },
     "typings": "./monaco.d.ts",
-    "version": "0.8.3"
+    "version": "0.8.3",
+    "bin": {}
 }
 ```
 
